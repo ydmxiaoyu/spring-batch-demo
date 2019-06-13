@@ -2,5 +2,13 @@
 
 # Spring batch 入门 demo
 
-### 自编造数程序
+## Job 
+## Step 
+## Reader 
+## Process
+## Writer
+## Chunk
+## Skip
+## Listener
+## 自编造数程序
 
